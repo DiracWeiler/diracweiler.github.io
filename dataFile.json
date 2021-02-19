@@ -1,10 +1,47 @@
 [
-{
-	"title": "Current Light Level",
-	"value": "400"
-},
-{
-	"title": "Desired Light Level",
-	"value": "600"
-}
+  {
+    "header": "current temperature", 
+    "id": 0, 
+    "value": 10
+  }, 
+  {
+    "header": "current lighting", 
+    "id": 1, 
+    "value": 0
+  }, 
+  {
+    "header": "reference temperature", 
+    "id": 2, 
+    "value": 0
+  }, 
+  {
+    "header": "reference lighting", 
+    "id": 3, 
+    "value": 0
+  }, 
+  {
+    "header": "manual heater control", 
+    "id": 4, 
+    "value": false
+  }, 
+  {
+    "header": "manual heater value", 
+    "id": 5, 
+    "value": 0
+  }, 
+  {
+    "header": "manual blind control", 
+    "id": 6, 
+    "value": false
+  }, 
+  {
+    "header": "manual height value", 
+    "id": 7, 
+    "value": 0
+  }, 
+  {
+    "header": "manual tilt value", 
+    "id": 8, 
+    "value": 0
+  }
 ]
