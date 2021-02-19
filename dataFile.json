@@ -2,22 +2,22 @@
   {
     "header": "current temperature", 
     "id": 0, 
-    "value": 10
+    "value": 20
   }, 
   {
     "header": "current lighting", 
     "id": 1, 
-    "value": 0
+    "value": 600
   }, 
   {
     "header": "reference temperature", 
     "id": 2, 
-    "value": 0
+    "value": 25
   }, 
   {
     "header": "reference lighting", 
     "id": 3, 
-    "value": 0
+    "value": 400
   }, 
   {
     "header": "manual heater control", 
